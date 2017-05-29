@@ -1,0 +1,9 @@
+C:\Development\Source\LogLauncherConsoleHandler\LogLauncherConsoleHandler\bin\Debug\LogLauncherConsoleHandler.exe.config
+C:\Development\Source\LogLauncherConsoleHandler\LogLauncherConsoleHandler\bin\Debug\LogLauncherConsoleHandler.exe
+C:\Development\Source\LogLauncherConsoleHandler\LogLauncherConsoleHandler\bin\Debug\LogLauncherConsoleHandler.pdb
+C:\Development\Source\LogLauncherConsoleHandler\LogLauncherConsoleHandler\obj\Debug\LogLauncherConsoleHandler.csprojResolveAssemblyReference.cache
+C:\Development\Source\LogLauncherConsoleHandler\LogLauncherConsoleHandler\obj\Debug\LogLauncherConsoleHandler.exe
+C:\Development\Source\LogLauncherConsoleHandler\LogLauncherConsoleHandler\obj\Debug\LogLauncherConsoleHandler.pdb
+C:\Development\Source\LogLauncherConsoleHandler\LogLauncherConsoleHandle\bin\Debug\LogLauncherConsoleHandler.exe.config
+C:\Development\Source\LogLauncherConsoleHandler\LogLauncherConsoleHandle\obj\Debug\LogLauncherConsoleHandler.exe
+C:\Development\Source\LogLauncherConsoleHandler\LogLauncherConsoleHandle\obj\Debug\LogLauncherConsoleHandler.pdb
